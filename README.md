@@ -7,10 +7,12 @@
 
 ### Contacto 👀
 <ul id="Contacto">
-<a
-<li>
-href="https://www.linkedin.com/in/rodriguezcadr/"
-target="_blank"
->LinkedIn</a>
-<li>
+  <li>
+    <a
+      href="https://www.linkedin.com/in/rodriguezcadr/"
+      target="_blank"
+    >
+    LinkedIn
+    </a>
+  <li>
 </ul>
