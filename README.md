@@ -8,11 +8,15 @@
 ### Contacto 👀
 <ul id="Contacto">
   <li>
+    🤵
     <a
       href="https://www.linkedin.com/in/rodriguezcadr/"
       target="_blank"
     >
     LinkedIn
     </a>
+  </li>
   <li>
+    ✉ rodriguezcadr@gmail.com
+  </li>
 </ul>
