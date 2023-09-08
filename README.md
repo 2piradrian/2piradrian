@@ -8,7 +8,7 @@ I love technology and the added value that I find in it. I am passionate about e
 
 *   🌍  I'm based in Córdoba, Argentina
 *   ✉️  You can contact me at [rodriguezcadr@gmail.com](mailto:rodriguezcadr@gmail.com)
-*   🚀  I'm currently working on my personal project [Ayudante de Santa](http://ayudante-de-santa.vercel.app/)
+*   🚀  I'm currently working on my personal project [Ayudante de Santa](https://www.instagram.com/ayudantedsok/)
 *   ⚡  Fun fact: I like math.
 
 ### Skills
