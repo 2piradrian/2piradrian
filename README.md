@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian
 ==============================================================================================================================
 
-Student | Full Stack Developer & Engineering
+Full Stack Developer
 --------------------------------------------
 
 I love technology and the added value that I find in it. I am passionate about education and an admirer of people who know how to educate.
