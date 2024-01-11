@@ -21,11 +21,6 @@ I love technology and the added value that I find in it. I am passionate about e
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="36" height="36" alt="Node" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="36" height="36" alt="Kotlin" /></a>
 </p>
-                    
-
-### Socials
-                  
-<p align="left"> <a href="https://www.instagram.com/radriaann/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rodriguezcadr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
