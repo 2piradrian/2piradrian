@@ -14,8 +14,6 @@
 <a href = "mailto:rodriguezcadr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2piradrian&langs_count=8&theme=" alt=2piradrian />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=2piradrian&show_icons=true&locale=en&theme=" alt="2piradrian" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2piradrian&theme=" alt="2piradrian" /></p>
