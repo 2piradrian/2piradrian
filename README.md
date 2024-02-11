@@ -1,15 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian
-==============================================================================================================================
+<h1 align="center">Hi 👋, I'm Adrián</h1>
+<h3 align="center">Full Stack Developer & Engeneering Student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2piradrian&label=Profile%20views&color=0e75b6&style=flat" alt="2piradrian" /> </p>
 
-Full Stack Developer
---------------------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2piradrian&theme=default" alt="2piradrian" /></a> </p>
 
-I love technology and the added value that I find in it. I am passionate about education and an admirer of people who know how to educate.
 
-*   🌍  Córdoba, Argentina
-*   ⚡  Fun fact: I like math.
+- 📫 How to reach me **rodriguezcadr@gmail.com**
+- 👨‍💻 All of my projects are available at **2piradrian.vercel.app**
+- ⚡ Fun fact **I like maths**
 
-<b>My GitHub Stats</b>
+<div> <a href="https://www.linkedin.com/in/rodriguezcadr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/2piradrian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:rodriguezcadr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rodriguezcadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rodriguezcadr" height="30" width="40" /></a></p>
 
-<a href="http://www.github.com/2piradrian"><img src="https://github-readme-stats.vercel.app/api?username=2piradrian&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="2piradrian's GitHub stats" /></a>
-<a href="https://github.com/2piradrian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2piradrian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2piradrian&langs_count=8&theme=" alt=2piradrian />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=2piradrian&show_icons=true&locale=en&theme=" alt="2piradrian" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2piradrian&theme=" alt="2piradrian" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/2piradrian">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2piradrian&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2piradrian&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2piradrian&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2piradrian&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2piradrian&theme=2077" height="180em" />
+</div>
